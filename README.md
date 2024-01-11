@@ -1,6 +1,23 @@
 # OnePage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+```sh
+node -v
+npm -v (unsupported for 21.4.0 version) 
+npm version
+npm list -g
+npm install -g typescript
+npm install -g @angular/cli
+ng version
+ng v
+ng new one-page
+cd one-page
+ng serve
+ng serve --port 9999 (you change localhost address as if you want)
+```
+[Project](http://localhost:4200/)
+[GitHub](https://github.com/ProjectVlase/My-Angular-OnePage)
+[Angular Github](https://github.com/angular/angular-cli)
 
 ## Development server
 
